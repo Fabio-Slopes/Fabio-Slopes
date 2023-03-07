@@ -1,4 +1,4 @@
-## Hello, Devs Bem-vindo(a) ao meu perfil 😁
+## Hello, Devs bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Fabio-Slopes">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Minhas redes para contato, abaixo!
  
 <div> 
   <a href="https://www.youtube.com/Fabioanakin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
